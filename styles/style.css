@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Lobster&display=swap');
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+@import url("components/calendar.css");
+
+body {
+	font-family: 'Lora',serif;
+	background-color: #c7cfb7 ;
+	font-size: 18px;
+	margin:0px;
+}
+
+h1,h2,h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+.far fa-star {
+	font-size:12px;
+	color:black;
+}
+
+ul {list-style-type: none;}
+
+body {font-family: Verdana, sans-serif;}
+
+
+.address {
+	text-align:center;
+}
+
+.la-table-ronde {
+	font-size:14px;
+	background-color:#f7f7e8;
+	padding:5px;
+	box-shadow: 0px 10px 30px rgb(0 0 0 / 20%);
+border-radius: 6px;
+}
+
